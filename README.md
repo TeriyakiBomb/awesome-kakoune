@@ -16,3 +16,9 @@ There's several plugin managers, but this is probably the most popular: https://
 - https://github.com/kakoune-lsp/kakoune-lsp
 - https://github.com/alexherbo2/auto-pairs.kak
 - https://github.com/andreyorst/powerline.kak
+
+## Untested plugins
+
+- https://gitlab.com/kstr0k/mru-files.kak/-/tree/master/kakhist 
+- https://gitlab.com/kstr0k/mru-files.kak
+- https://github.com/occivink/kakoune-snippets
