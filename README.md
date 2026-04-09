@@ -2,20 +2,20 @@
 A curated bunch of resources and plugins for the Kakoune editor
 
 ## Plugins
-All plugins listed are confirmed to be working with Kakoune 2025.06.03
-
-### Installing plugins
-TODO - add link to plugin docs
+> [!NOTE]
+> All plugins listed are confirmed to be working with Kakoune 2025.06.03
 
 Official plugin list: https://kakoune.org/plugins.html
 
-There's several plugin managers, but this is probably the most popular: https://github.com/andreyorst/plug.kak
+The vast majority of plugins are just .kak files, formal installation is normally not necessary. However There's several plugin managers, but this is probably the most popular: https://github.com/andreyorst/plug.kak 
 
-- https://github.com/postsolar/jump.kak
-- https://github.com/evanrelf/byline.kak
-- https://github.com/kakoune-lsp/kakoune-lsp
-- https://github.com/alexherbo2/auto-pairs.kak
-- https://github.com/andreyorst/powerline.kak
+- [**jump.kak**](https://github.com/postsolar/jump.kak) Jump to a word, a bit like `gw` in Helix
+- [**byline**](https://github.com/evanrelf/byline.kak) Adds the ability to select multiple lines with `x` and extend line selections upwards with `X`
+- [**kakoune-lsp**](https://github.com/kakoune-lsp/kakoune-lsp) LSP support for Kakoune
+- [**auto-pairs**](https://github.com/alexherbo2/auto-pairs.kak) does what it says on the tin, autopair support
+- [**powerline**](https://github.com/andreyorst/powerline.kak) a powerline, obvs
+- [**kak-crosshairs**](https://github.com/insipx/kak-crosshairs) adds current line and column highlighting
+- [**fzf.kak**](https://github.com/andreyorst/fzf.kak) adds several fzf powered pickers for files, open buffers etc
 
 ## Untested plugins
 
