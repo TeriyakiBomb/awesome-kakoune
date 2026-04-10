@@ -1,5 +1,10 @@
-# awesome-kakoune
-A curated bunch of resources and plugins for the Kakoune editor
+# Awesome Kakoune
+A curated bunch of resources and plugins for the Kakoune editor.
+
+## Articles
+- https://strongly-typed-thoughts.net/blog/kakoune-philosophy
+- https://frog.ski/blog/writing-your-first-kakrc
+- https://kakoune-editor.github.io/community-articles/2021/01/01/first_two_hours_in_two_minutes.html
 
 ## Plugins
 > [!NOTE]
@@ -7,7 +12,7 @@ A curated bunch of resources and plugins for the Kakoune editor
 
 Official plugin list: https://kakoune.org/plugins.html
 
-The vast majority of plugins are just .kak files, formal installation is normally not necessary. However There's several plugin managers, but this is probably the most popular: https://github.com/andreyorst/plug.kak 
+The vast majority of "plugins" are just .kak files, formal installation is normally not necessary. However There's several plugin managers, but this is probably the most popular: https://github.com/andreyorst/plug.kak 
 
 - [**jump.kak**](https://github.com/postsolar/jump.kak) Jump to a word, a bit like `gw` in Helix
 - [**byline**](https://github.com/evanrelf/byline.kak) Adds the ability to select multiple lines with `x` and extend line selections upwards with `X`
