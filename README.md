@@ -5,6 +5,7 @@ A curated bunch of resources and plugins for the Kakoune editor.
 - https://strongly-typed-thoughts.net/blog/kakoune-philosophy
 - https://frog.ski/blog/writing-your-first-kakrc
 - https://kakoune-editor.github.io/community-articles/2021/01/01/first_two_hours_in_two_minutes.html
+- https://ficd.sh/blog/
 
 ## Plugins
 > [!NOTE]
