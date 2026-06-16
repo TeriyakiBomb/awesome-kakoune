@@ -22,6 +22,7 @@ The vast majority of "plugins" are just .kak files, formal installation is norma
 - [**powerline**](https://github.com/andreyorst/powerline.kak) a powerline, obvs
 - [**kak-crosshairs**](https://github.com/insipx/kak-crosshairs) adds current line and column highlighting
 - [**fzf.kak**](https://github.com/andreyorst/fzf.kak) adds several fzf powered pickers for files, open buffers etc
+- [**Kakeidoscope**](https://git.sr.ht/~orchid/kakeidoscope) Rainbow bracket for kakoune
 
 ## Untested plugins
 
