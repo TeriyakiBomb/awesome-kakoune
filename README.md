@@ -15,7 +15,7 @@ Official plugin list: https://kakoune.org/plugins.html
 
 The vast majority of "plugins" are just .kak files, formal installation is normally not necessary. However there's several plugin managers, but this is probably the most popular: https://github.com/andreyorst/plug.kak 
 
-## Plugins
+### Plugin list
 
 - [**jump.kak**](https://github.com/postsolar/jump.kak) Jump to a word, a bit like `gw` in Helix
 - [**byline**](https://github.com/evanrelf/byline.kak) Adds the ability to select multiple lines with `x` and extend line selections upwards with `X`
