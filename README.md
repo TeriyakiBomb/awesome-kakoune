@@ -25,6 +25,7 @@ The vast majority of "plugins" are just .kak files, formal installation is norma
 - [**kak-crosshairs**](https://github.com/insipx/kak-crosshairs) adds current line and column highlighting
 - [**fzf.kak**](https://github.com/andreyorst/fzf.kak) adds several fzf powered pickers for files, open buffers etc
 - [**Kakeidoscope**](https://git.sr.ht/~orchid/kakeidoscope) Rainbow bracket for kakoune
+- [**highlighters.kak**](https://github.com/thacuber2a03/highlighters.kak) Miscellaneous editor support files
 
 ## Untested plugins
 
